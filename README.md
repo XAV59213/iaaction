@@ -1,3 +1,5 @@
+
+[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=xav59213&emoji=&slug=xav59213&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/xav59213)
 ﻿# IAction Home Assistant Add-ons Repository
 
 This repository hosts the IAction Camera AI add-on for Home Assistant. The add-on is published as a standard Supervisor add-on with ingress and MQTT integration.
